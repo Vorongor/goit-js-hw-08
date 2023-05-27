@@ -2,7 +2,7 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vorongor.github.io/goit-js-hw-08/src/index.html",
+  "homepage": "https://vorongor.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/*.html --public-url /Vorongor/goit-js-hw-08/"
